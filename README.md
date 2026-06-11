@@ -18,6 +18,7 @@ Flappy Bear is a 2D arcade game inspired by Flappy Bird, developed in C++ using 
 ## Screenshots
 
 ![Gameplay screenshot](assets/screenshot.png)
+![Gameplay screenshot](assets/screenshot2.png)
 
 ## How to run
 
